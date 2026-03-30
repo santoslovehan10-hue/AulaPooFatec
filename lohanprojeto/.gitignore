@@ -1,4 +1,7 @@
 *
+.vscode/
+.vscode2/
+*.class
 !*/
 !*.java
 !.gitignore
